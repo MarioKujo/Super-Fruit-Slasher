@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: ad61bff8e5c6bfd439aebb986d9868a2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Strawberry
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1638
+        width: 234
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dfd7914380ab6419f420c8425f2c67
+      internalID: 1960027069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_Half
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1638
+        width: 234
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6147eaba41c8ba4ca7dbc532bdf7fc1
+      internalID: -1326784794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avocado_Half
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 647
+        width: 194
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f540db0fa4d8494b9c178a7f1f60d3f
+      internalID: -879763365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avocado
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 647
+        width: 194
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be156434c9b9e842bbf2efd67610931
+      internalID: -994500990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pomegranate
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 668
+        width: 275
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6156f91d3fea0468543eebf3cbcf77
+      internalID: 1215702159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pomegranate_Half
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 668
+        width: 275
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609372c35a268b54d87e3da88034fe00
+      internalID: 1173045874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mango_Half
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 328
+        width: 195
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffd29360a7ff7145ad97acf0c3c87a6
+      internalID: 330265413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mango
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 328
+        width: 194
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a071ac80116594eb19f4dd93482f49
+      internalID: 1787734628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fig_Half
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 338
+        width: 205
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debd019c7ea2b0b4c9136f14d3823cda
+      internalID: -2125350209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fig_Purple
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 338
+        width: 205
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c1231cdff4a0e4d97c0492269a8369
+      internalID: 1323496979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fig_Green
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 338
+        width: 202
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ed189fc4155b144af5db97b1d8d0cf
+      internalID: -1694850984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pixel_fruit_v1.2-export_39: 1073811088
+      pixel_fruit_v1.2-export_54: 235176366
+      pixel_fruit_v1.2-export_17: -386968235
+      pixel_fruit_v1.2-export_36: 851785676
+      Pomegranate_Half: 1173045874
+      pixel_fruit_v1.2-export_38: -1268106274
+      Strawberry: 1960027069
+      pixel_fruit_v1.2-export_8: -1556472127
+      pixel_fruit_v1.2-export_42: -340047022
+      pixel_fruit_v1.2-export_47: 1886750006
+      pixel_fruit_v1.2-export_2: 1811520394
+      Kiwi: -234874121
+      pixel_fruit_v1.2-export_41: -1599510278
+      Fig_Half: -2125350209
+      pixel_fruit_v1.2-export_33: -311272618
+      pixel_fruit_v1.2-export_37: -1600427939
+      pixel_fruit_v1.2-export_20: -1112347890
+      pixel_fruit_v1.2-export_28: -1017177614
+      pixel_fruit_v1.2-export_35: -1388392760
+      pixel_fruit_v1.2-export_57: 690107389
+      Fig_Purple: 1323496979
+      pixel_fruit_v1.2-export_0: 101067961
+      pixel_fruit_v1.2-export_9: 1832871695
+      pixel_fruit_v1.2-export_55: 1330728662
+      pixel_fruit_v1.2-export_19: -1905524202
+      pixel_fruit_v1.2-export_26: 1648094280
+      pixel_fruit_v1.2-export_16: -367240883
+      pixel_fruit_v1.2-export_14: 619442929
+      pixel_fruit_v1.2-export_22: -1880565286
+      pixel_fruit_v1.2-export_18: -41229735
+      pixel_fruit_v1.2-export_21: -380112647
+      pixel_fruit_v1.2-export_56: -747937710
+      pixel_fruit_v1.2-export_46: -1493393367
+      pixel_fruit_v1.2-export_1: 1124787651
+      pixel_fruit_v1.2-export_12: 867894227
+      Mango: 1787734628
+      Avocado_Half: -879763365
+      Pomegranate: 1215702159
+      pixel_fruit_v1.2-export_3: 1099600638
+      pixel_fruit_v1.2-export_53: 1998693110
+      pixel_fruit_v1.2-export_27: 490885136
+      pixel_fruit_v1.2-export_29: -1452038919
+      pixel_fruit_v1.2-export_10: 1280849568
+      pixel_fruit_v1.2-export_40: 1500656267
+      pixel_fruit_v1.2-export_32: -452503301
+      pixel_fruit_v1.2-export_13: -110783015
+      pixel_fruit_v1.2-export_31: -1133973905
+      pixel_fruit_v1.2-export_15: 455497803
+      Fig_Green: -1694850984
+      pixel_fruit_v1.2-export_30: 125300357
+      pixel_fruit_v1.2-export_44: -1889440426
+      Mango_Half: 330265413
+      pixel_fruit_v1.2-export_5: 1664431548
+      pixel_fruit_v1.2-export_48: 209863109
+      pixel_fruit_v1.2-export_59: -1656335608
+      pixel_fruit_v1.2-export_34: 936171517
+      pixel_fruit_v1.2-export_45: -1784879135
+      Orange_Half: 1398102656
+      Orange: 1292995478
+      Avocado: -994500990
+      pixel_fruit_v1.2-export_25: 86359381
+      Strawberry_Half: -1326784794
+      Kiwi_Half: 1320386630
+      pixel_fruit_v1.2-export_43: -1521650579
+      pixel_fruit_v1.2-export_4: -361529285
+      pixel_fruit_v1.2-export_61: -1819632243
+      pixel_fruit_v1.2-export_11: 1003899836
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
